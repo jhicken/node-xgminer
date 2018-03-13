@@ -1,0 +1,57 @@
+[
+  {
+    "name": "help",
+    "parameters": "",
+    "reply": "HELP"
+  },
+  {
+    "name": "threads",
+    "parameters": "",
+    "reply": "THREADS"
+  },
+  {
+    "name": "summary",
+    "parameters": "",
+    "reply": "SUMMARY"
+  },
+  {
+    "name": "pool",
+    "parameters": "",
+    "reply": "POOL"
+  },
+  {
+    "name": "histo",
+    "parameters": "",
+    "reply": "HISTO"
+  },
+  {
+    "name": "hwinfo",
+    "parameters": "",
+    "reply": "HWINFO"
+  },
+  {
+    "name": "meminfo",
+    "parameters": "",
+    "reply": "MEMINFO"
+  },
+  {
+    "name": "scanlog",
+    "parameters": "",
+    "reply": "SCANLOG"
+  },
+  {
+    "name": "seturl",
+    "parameters": "",
+    "reply": "SETURL"
+  },
+  {
+    "name": "switchpool",
+    "parameters": "URL,USR,PASS",
+    "reply": "SWITCHPOOL"
+  },
+  {
+    "name": "quit",
+    "parameters": "",
+    "reply": "QUIT"
+  }
+]
