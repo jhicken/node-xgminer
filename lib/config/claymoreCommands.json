@@ -1,0 +1,17 @@
+[
+  {
+    "name": "miner_getstat1",
+    "parameters": "",
+    "reply": "GETSTATS"
+  },
+  {
+    "name": "miner_restart",
+    "parameters": "",
+    "reply": "RESTART_MINER"
+  },
+  {
+    "name": "miner_reboot",
+    "parameters": "",
+    "reply": "REBOOT_MINER"
+  }
+]
